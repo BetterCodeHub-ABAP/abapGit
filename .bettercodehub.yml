@@ -1,2 +1,4 @@
 languages:
 - abap
+exclude:
+- .*/changelog\.txt
